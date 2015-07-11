@@ -1,2 +1,3 @@
-# ruuvitag_android
-Official RuuviTag Android application
+# RuuviTag Android mobile application
+
+TODO: Readme
